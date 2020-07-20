@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PassionateWebDesigner/web.git"
+  },
+  "author": "Radha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PassionateWebDesigner/web/issues"
+  },
+  "homepage": "https://github.com/PassionateWebDesigner/web#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
